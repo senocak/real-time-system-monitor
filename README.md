@@ -2,4 +2,4 @@
 A lightweight terminal-based system monitor written in Go. Displays real-time CPU, memory, network stats, and top processes with a clean terminal UI
 
 
-![Terminal System Monitor in action](terminal-monitoring)
+![Terminal System Monitor in action](terminal-monitoring.png)
